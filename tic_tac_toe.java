@@ -3,10 +3,6 @@
  * July 16th, 2024
  * Tic Tac Toe CPT
  */
-/*
- * https://docs.oracle.com/javase/8/docs/api/java/util/Random.html#nextDouble--
- * 
- */
 
 import java.util.Scanner; // import the scan toolbox
 import java.util.Random;
