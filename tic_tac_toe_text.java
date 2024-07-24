@@ -7,7 +7,7 @@
 import java.util.Scanner; // import the scan toolbox
 import java.util.Random;
 
-public class tic_tac_toe // name of class
+public class tic_tac_toe_text // name of class
 { // start of class
     static int[][] grid;
     static int grid_size = 0;
